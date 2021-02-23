@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @berkaybayar
-- 👀 I’m interested in web development and maybe game development at some point.
-- 🌱 I’m currently learning html,css,js
+- 👀 I’m interested in c# and web development
+- 🌱 I’m currently learning html,css,j, c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me berkaybyr@yahoo.com
