@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @berkaybayar
-- 👀 I’m interested in c# and web development
-- 🌱 I’m currently learning html,css,j, c#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me berkaybyr@yahoo.com
+Hi, there👋
+
+Name: Berkay Bayar
+Age: 20
+Living in Turkey
+Currently a student
