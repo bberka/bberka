@@ -1,7 +1,37 @@
-Hi, there👋
+<h2> Hi, I'm Albat! <img src="https://media.giphy.com/media/l1J9rgKXAD9BpO1sk/giphy.gif" width="50"></h2>
+<img align='right' src="https://i.hizliresim.com/q8VJZx.png" width="230">
 
-Name: Berkay Bayar
+### Co-Founder ZDK Network
+<font color="pink">Yenilmeyi bi' bilsen olur seninle şans. </em> `<feature>` :heart: </font>
+#
 
-Age: 20
+### Spotify Playing :notes:
+[![Spotify](https://novatorem-albatx.vercel.app/api/spotify)](https://open.spotify.com/user/j4ntqa7lm32ugu039446fdr96) 
+<br/>
+<h2>
 
-Living in Turkey
+
+### <img src="https://media.giphy.com/media/l1J9w5fqmQ3qEBOdW/giphy.gif" width="50"> About me...  
+
+<h3>
+    
+```python
+​
+import json
+from dataclasses import asdict, dataclass
+
+
+@dataclass
+class Stack:
+    founder     : tuple = ("www.partivo.net")
+
+    def serialize(self):
+        return json.dumps(asdict(self), indent=1)
+
+
+stack = Stack()
+print(stack.serialize())
+​
+```
+</h3>
+
