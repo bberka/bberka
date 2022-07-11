@@ -10,28 +10,3 @@
 <br/>
 <h2>
 
-
-### <img src="https://media.giphy.com/media/l1J9w5fqmQ3qEBOdW/giphy.gif" width="50"> About me...  
-
-<h3>
-    
-```python
-​
-import json
-from dataclasses import asdict, dataclass
-
-
-@dataclass
-class Stack:
-    founder     : tuple = ("www.partivo.net")
-
-    def serialize(self):
-        return json.dumps(asdict(self), indent=1)
-
-
-stack = Stack()
-print(stack.serialize())
-​
-```
-</h3>
-
