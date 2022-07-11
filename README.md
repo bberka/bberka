@@ -1,7 +1,7 @@
 <h2> Hi, I'm Berkay!</h2>
-<img align='right' src="https://i.hizliresim.com/q8VJZx.png" width="230">
 
-### Co-Founder ZDK Network
+
+### Co-Founder at ZDK Network
 
 
 ### Spotify Playing :notes:
