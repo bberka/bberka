@@ -19,7 +19,6 @@ Tech Stack
     <li>1 year experience as a Back-end/Web development</li>
      <li> Now studying:   
         <ul> 
-            <li>Now studying:</li>
             <li>Design Patterns</li>
             <li>Front-end Development</li>
             <li>Illustration</li>
