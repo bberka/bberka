@@ -35,6 +35,7 @@ Tech Stack
    </ul> 
 </td>
 <td>
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
     <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
     <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
