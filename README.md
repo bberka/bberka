@@ -1,20 +1,39 @@
-<h2> Hi 👋, I'm Berkay!</h2>
-<ul>
-  <li>A Turkish engineer working in Turkey-Remote</li>
-  <li>1 year experience as a Back-end/Web development</li>
-</ul>
-<ul>
-  <li>Now studying:</li>
-  <li>Design Patterns</li>
-  <li>Front-end Development</li>
-  <li>Illustration</li>
-</ul>
-<ul>
+
+ <p align = "center" ><img align="center"  src="https://github.com/avie-dev/avie-dev/blob/master/readme_banner.png?raw" /></p>
+
+<table>
+<tr>
+ <th>
+ About Me
+ </th>
+<th>
+Tech Stack
+</th>
+</tr>
+
+<tr>
+ <td width="70%">
+   <ul>
+     <li> Hi 👋, I'm Berkay </li>
+    <li>A Turkish engineer working in Turkey-Remote</li>
+    <li>1 year experience as a Back-end/Web development</li>
+     <li> Now studying:   
+        <ul> 
+            <li>Now studying:</li>
+            <li>Design Patterns</li>
+            <li>Front-end Development</li>
+            <li>Illustration</li>
+        </ul>          
+     </li>  
+     <li> Hobbies:
+        <ul> 
 <li>Hobbies:</li>
 <li>Gaming</li>
 <li>Illustration/Drawing</li>
-</ul>
-
+        </ul>
+     </li>  
+   </ul> 
+</td>
 <td>
     <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
     <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
@@ -26,3 +45,5 @@
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
     <img src="https://img.shields.io/badge/-Xcode-EEE.svg?logo=xcode&style=flat">
   </td>
+</tr>
+</table>
