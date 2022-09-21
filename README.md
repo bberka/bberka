@@ -27,7 +27,6 @@ Tech Stack
      </li>  
      <li> Hobbies:
         <ul> 
-<li>Hobbies:</li>
 <li>Gaming</li>
 <li>Illustration/Drawing</li>
         </ul>
