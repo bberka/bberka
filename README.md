@@ -1,14 +1,14 @@
 <h2> Hi 👋, I'm Berkay!</h2>
-<br/>A Turkish engineer working in Turkey-Remote
-<br/>1 year experience as a Back-end/Web development
-
+<ul>
+  <li>A Turkish engineer working in Turkey-Remote</li>
+  <li>1 year experience as a Back-end/Web development</li>
+</ul>
 <ul>
   <li>Now studying:</li>
   <li>Design Patterns</li>
   <li>Front-end Development</li>
   <li>Illustration</li>
 </ul>
-
 <ul>
 <li>Hobbies:</li>
 <li>Gaming</li>
