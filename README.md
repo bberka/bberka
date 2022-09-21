@@ -35,16 +35,17 @@ Tech Stack
    </ul> 
 </td>
 <td>
+ 
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-    <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
-    <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-    <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
-    <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat">
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
-    <img src="https://img.shields.io/badge/-Xcode-EEE.svg?logo=xcode&style=flat">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   </td>
 </tr>
 </table>
