@@ -16,17 +16,17 @@ Tech Stack
    <ul>
      <li> Hi 👋, I'm Berkay </li>
     <li>A Turkish engineer working in Turkey-Remote</li>
-    <li>1 year experience as a Back-end/Web development</li>
+    <li>1 year experience in Back-end/Web development</li>
      <li> Now studying:   
         <ul> 
             <li>Design Patterns</li>
             <li>Front-end Development</li>
-            <li>Illustration</li>
         </ul>          
      </li>  
      <li> Hobbies:
         <ul> 
 <li>Gaming</li>
+<li>Photography</li>
 <li>Illustration/Drawing</li>
         </ul>
      </li>  
