@@ -15,12 +15,13 @@ Tech Stack
  <td width="70%">
    <ul>
      <li> Hi 👋, I'm Berkay </li>
-    <li>A Turkish engineer working in Turkey-Remote</li>
-    <li>1 year experience in Back-end/Web development</li>
+    <li>A Turkish developer located at Turkey</li>
+    <li>2 year experience in Back-end/Web development</li>
      <li> Now studying:   
         <ul> 
             <li>Design Patterns</li>
             <li>Front-end Development</li>
+            <li>Reverse Engineering</li>
         </ul>          
      </li>  
      <li> Hobbies:
