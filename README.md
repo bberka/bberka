@@ -28,7 +28,6 @@ Tech Stack
         <ul> 
 <li>Gaming</li>
 <li>Photography</li>
-<li>Illustration/Drawing</li>
         </ul>
      </li>  
    </ul> 
