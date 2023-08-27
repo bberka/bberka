@@ -32,16 +32,18 @@
 
 <h3 align="left">Nuget Packages:</h3>
 
-- [EasMe](https://www.nuget.org/packages/EasMe/)
-- [EasMe.Result](https://www.nuget.org/packages/EasMe.Result/)
-- [EasMe.System](https://www.nuget.org/packages/EasMe.System/)
-- [EasMe.Logging](https://www.nuget.org/packages/EasMe.Logging/)
-- [AspNetCore.Authorization.Extender](https://www.nuget.org/packages/AspNetCore.Authorization.Extender/)
-- [EfCore.ConstraintsBuilder](https://www.nuget.org/packages/EfCore.ConstraintsBuilder/)
-- [AspNetCore.MinimalApi.Ext](https://www.nuget.org/packages/AspNetCore.MinimalApi.Ext/)
-- [EntityFrameworkCore.Extender](https://www.nuget.org/packages/EntityFrameworkCore.Extender/)
-- [Serilog.ConfigHelper](https://www.nuget.org/packages/Serilog.ConfigHelper/)
-- [SharpBuilder](https://www.nuget.org/packages/SharpBuilder/)
+
+
+- [EasMe](https://www.nuget.org/packages/EasMe/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/EasMe.svg)
+- [EasMe.Result](https://www.nuget.org/packages/EasMe.Result/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/EasMe.Result.svg)
+- [EasMe.System](https://www.nuget.org/packages/EasMe.System/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/EasMe.System.svg)
+- [EasMe.Logging](https://www.nuget.org/packages/EasMe.Logging/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/EasMe.Logging.svg)
+- [AspNetCore.Authorization.Extender](https://www.nuget.org/packages/AspNetCore.Authorization.Extender/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/AspNetCore.Authorization.Extender.svg)
+- [EfCore.ConstraintsBuilder](https://www.nuget.org/packages/EfCore.ConstraintsBuilder/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/EfCore.ConstraintsBuilder.svg)
+- [AspNetCore.MinimalApi.Ext](https://www.nuget.org/packages/AspNetCore.MinimalApi.Ext/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/AspNetCore.MinimalApi.Ext.svg)
+- [EntityFrameworkCore.Extender](https://www.nuget.org/packages/EntityFrameworkCore.Extender/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/EntityFrameworkCore.Extender.svg)
+- [Serilog.ConfigHelper](https://www.nuget.org/packages/Serilog.ConfigHelper/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/Serilog.ConfigHelper.svg)
+- [SharpBuilder](https://www.nuget.org/packages/SharpBuilder/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/SharpBuilder.svg)
 
 
 <table>
