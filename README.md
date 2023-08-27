@@ -30,9 +30,24 @@
 - Native Turkish
 - Fluent English
 
+<h3 align="left">Nuget Packages:</h3>
+
+- [EasMe](https://www.nuget.org/packages/EasMe/)
+- [EasMe.Result](https://www.nuget.org/packages/EasMe.Result/)
+- [EasMe.System](https://www.nuget.org/packages/EasMe.System/)
+- [EasMe.Logging](https://www.nuget.org/packages/EasMe.Logging/)
+- [AspNetCore.Authorization.Extender](https://www.nuget.org/packages/AspNetCore.Authorization.Extender/)
+- [EfCore.ConstraintsBuilder](https://www.nuget.org/packages/EfCore.ConstraintsBuilder/)
+- [AspNetCore.MinimalApi.Ext](https://www.nuget.org/packages/AspNetCore.MinimalApi.Ext/)
+- [EntityFrameworkCore.Extender](https://www.nuget.org/packages/EntityFrameworkCore.Extender/)
+- [Serilog.ConfigHelper](https://www.nuget.org/packages/Serilog.ConfigHelper/)
+- [SharpBuilder](https://www.nuget.org/packages/SharpBuilder/)
+
+
 <table>
 <tr>
-<th><h3 align="left">Technology and Tools:</h3></th>
+<th><h3 align="left">Technology and Tools:</h
+                                           3></th>
  <th><h3 align="left">Familarity</h3></th>
 </tr>
 
@@ -126,6 +141,8 @@ C, Python, Luascript
 
 
 </table>
+
+
 
 
 
