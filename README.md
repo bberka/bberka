@@ -45,8 +45,8 @@
 - [Serilog.ConfigHelper](https://www.nuget.org/packages/Serilog.ConfigHelper/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/Serilog.ConfigHelper.svg)
 - [SharpBuilder](https://www.nuget.org/packages/SharpBuilder/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/SharpBuilder.svg)
 - [NetTCP](https://www.nuget.org/packages/NetTCP/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/NetTCP.svg)
-- [NetTCP.Client](https://www.nuget.org/packages/NetTCP/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/NetTCP.Client.svg)
-- [NetTCP.Server](https://www.nuget.org/packages/NetTCP/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/NetTCP.Server.svg)
+- [NetTCP.Client](https://www.nuget.org/packages/NetTCP.Client/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/NetTCP.Client.svg)
+- [NetTCP.Server](https://www.nuget.org/packages/NetTCP.Server/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/NetTCP.Server.svg)
   
 <table>
 <tr>
