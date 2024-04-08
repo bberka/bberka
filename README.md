@@ -8,7 +8,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- :briefcase: 2 years experience in Back-end/Web development with .NET
+- :briefcase: 3 years experience in Back-end/Web development with .NET
  
 - 🌱 I’m currently learning **WPF, Angular, Domain Driven Design**
 
