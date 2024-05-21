@@ -104,14 +104,14 @@
  <td >
      Javascript
  </td>
-    <td>:star: :star: :star: ☆ ☆</td>
+    <td>:star: :star: :star: :star: ☆</td>
 </tr>
 
 <tr>
  <td >
      JQuery
  </td>
-    <td>:star: :star: ☆ ☆ ☆</td>
+    <td>:star: :star: :star: ☆ ☆</td>
 </tr>
 
 
