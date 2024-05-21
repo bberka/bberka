@@ -10,7 +10,7 @@
 
 - :briefcase: 3 years experience in Back-end/Web development with .NET
  
-- 🌱 I’m currently learning **WPF, Angular, Domain Driven Design**
+- 🌱 I’m currently learning **WPF, Front end, Domain Driven Design**
 
 - 📫 How to reach me **info@berkaybayar.com**
 
