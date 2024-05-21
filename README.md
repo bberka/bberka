@@ -138,7 +138,7 @@ C, Python, Luascript
 
 <tr>
  <td >
-     React, Next.JS, Angular
+     React, Next.JS
  </td>
     <td>:star: ☆ ☆ ☆ ☆</td>
 </tr>
