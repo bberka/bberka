@@ -47,7 +47,10 @@
 - [NetTCP](https://www.nuget.org/packages/NetTCP/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/NetTCP.svg)
 - [NetTCP.Client](https://www.nuget.org/packages/NetTCP.Client/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/NetTCP.Client.svg)
 - [NetTCP.Server](https://www.nuget.org/packages/NetTCP.Server/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/NetTCP.Server.svg)
-  
+- [Serilog.Enrichers.HttpRequest](https://www.nuget.org/packages/Serilog.Enrichers.HttpRequest/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/Serilog.Enrichers.HttpRequest.svg)
+- [Serilog.Enrichers.System](https://www.nuget.org/packages/Serilog.Enrichers.System/) - ![NuGet Downloads](https://img.shields.io/nuget/dt/Serilog.Enrichers.System.svg)
+
+
 <table>
 <tr>
 <th><h3 align="left">Technology and Tools:</h
