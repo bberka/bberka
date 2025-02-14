@@ -146,6 +146,14 @@ C, Python, Luascript
     <td>:star: ☆ ☆ ☆ ☆</td>
 </tr>
 
+<tr>
+ <td >
+     Go
+ </td>
+    <td>:star: ☆ ☆ ☆ ☆</td>
+</tr>
+
+
 
 </table>
 
