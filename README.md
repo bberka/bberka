@@ -1,36 +1,13 @@
 
 
-<h1 align="center">Hi 👋, I'm Berkay Bayar</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h1 align="center">I'm Berkay Bayar</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bberka&label=Profile%20views&color=0e75b6&style=flat" alt="bberka" /> </p>
 
 
-<h3 align="left">About Me:</h3>
 
-- :briefcase: 3 years experience in Back-end/Web development with .NET
- 
-- 🌱 I’m currently learning **WPF, Front end, Domain Driven Design**
-
-- 📫 How to reach me **info@berkaybayar.com**
-
-
-
-
-
-<h3 align="left">Hobbies:</h3>
-
-- :video_game: Gaming
-- :camera_flash: Photography
-- :anchor: Traveling
-- :snowboarder: Skiing
-
-<h3 align="left">Languages:</h3>
-
-- Native Turkish
-- Fluent English
-
-<h3 align="left">Nuget Packages:</h3>
+<h3 align="left">Packages:</h3>
 
 
 
@@ -60,7 +37,7 @@
 
 <tr>
  <td >
-    C#, .NET, ASP .NET Core,  MVC, Web API
+    C#, .NET
  </td>
     <td>:star: :star: :star: :star: ☆</td>
 </tr>
@@ -68,59 +45,37 @@
 
 <tr>
  <td >
-    Blazor Web Assembly, Blazor Server
+    Blazor, WPF
+ </td>
+    <td>:star: :star: :star: ☆ ☆</td>
+</tr>
+
+
+<tr>
+ <td >
+   Windows Server, IIS, Linux Server 
  </td>
     <td>:star: :star: :star: ☆ ☆</td>
 </tr>
 
 <tr>
  <td >
-    WPF, XAML, MVVM
+ EF Core, SQL, MSSQL Server, PostgresQL
  </td>
     <td>:star: :star: :star: ☆ ☆</td>
 </tr>
 
+
 <tr>
  <td >
-    Entity Framework
+     JavaScript, TypeScript
  </td>
     <td>:star: :star: :star: :star: ☆</td>
 </tr>
 
 <tr>
  <td >
-   Windows Server, ISS
- </td>
-    <td>:star: :star: :star: ☆ ☆</td>
-</tr>
-
-<tr>
- <td >
- SQL, T-SQL, SQL Server
- </td>
-    <td>:star: :star: :star: :star: ☆</td>
-</tr>
-
-
-
-<tr>
- <td >
-     Javascript
- </td>
-    <td>:star: :star: :star: :star: ☆</td>
-</tr>
-
-<tr>
- <td >
-     JQuery
- </td>
-    <td>:star: :star: :star: ☆ ☆</td>
-</tr>
-
-
-<tr>
- <td >
-    HTML, CSS, Bootstrap
+    Bootstrap, JQuery, TailwindCSS
  </td>
     <td>:star: :star: :star: :star: ☆</td>
 </tr>
@@ -132,26 +87,22 @@
  </td>
     <td>:star: :star: :star: ☆ ☆</td>
 </tr>
-<tr>
- <td >
-C, Python, Luascript
- </td>
-    <td>:star: ☆ ☆ ☆ ☆</td>
-</tr>
 
 <tr>
  <td >
-     React, Next.JS, NestJS, TS
+     React, NextJS, ExpressJS
  </td>
     <td>:star: :star: :star: ☆ ☆</td>
 </tr>
 
 <tr>
  <td >
-     Go
+C, Python, Luascript, Go
  </td>
     <td>:star: ☆ ☆ ☆ ☆</td>
 </tr>
+
+
 
 
 
