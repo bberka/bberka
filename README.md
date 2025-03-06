@@ -70,14 +70,14 @@
  <td >
     Blazor Web Assembly, Blazor Server
  </td>
-    <td>:star: :star: ☆ ☆ ☆</td>
+    <td>:star: :star: :star: ☆ ☆</td>
 </tr>
 
 <tr>
  <td >
     WPF, XAML, MVVM
  </td>
-    <td>:star: :star: ☆ ☆ ☆</td>
+    <td>:star: :star: :star: ☆ ☆</td>
 </tr>
 
 <tr>
@@ -98,7 +98,7 @@
  <td >
  SQL, T-SQL, SQL Server
  </td>
-    <td>:star: :star: :star: ☆ ☆</td>
+    <td>:star: :star: :star: :star: ☆</td>
 </tr>
 
 
@@ -130,7 +130,7 @@
  <td >
     Microsoft Excel & Office Apps
  </td>
-    <td>:star: :star: ☆ ☆ ☆</td>
+    <td>:star: :star: :star: ☆ ☆</td>
 </tr>
 <tr>
  <td >
@@ -143,7 +143,7 @@ C, Python, Luascript
  <td >
      React, Next.JS, NestJS, TS
  </td>
-    <td>:star: ☆ ☆ ☆ ☆</td>
+    <td>:star: :star: :star: ☆ ☆</td>
 </tr>
 
 <tr>
