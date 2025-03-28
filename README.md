@@ -64,7 +64,7 @@ Here are some of the **awesome** NuGet packages I've built:
 ## 📬 Connect with Me
 
 📧 Email: [berkaybayar@pm.me](mailto:berkaybayar@pm.me)  
-💼 [LinkedIn](linkedin.com/in/berkay-bayar)  
+💼 [LinkedIn](https://linkedin.com/in/berkay-bayar)  
 
 
 ---
