@@ -13,6 +13,12 @@ I'm a software engineer and independent maker in Turkey, mostly working in C#/.N
 | <img src="assets/bitpack.svg" width="32" alt=""> | [BitPack](https://github.com/bberka/BitPack) | Zero-allocation, native AOT C# bit-level serialization. |
 | <img src="assets/brightsync.png" width="32" alt=""> | [BrightSync](https://github.com/bberka/BrightSync) | Keeps the brightness of your DDC/CI monitors in sync. |
 
+### Products
+
+| | Project | What it is |
+| --- | --- | --- |
+| <img src="assets/mediastash.svg" width="32" alt=""> | [MediaStash](https://mediastash.app) | Local-first tracker for movies, TV, books and games. No account needed. Closed source. |
+
 ### Elsewhere
 
 [bbay.dev](https://bbay.dev) · [Blog](https://bbay.dev/blog/)
