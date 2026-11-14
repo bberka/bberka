@@ -4,7 +4,7 @@ I'm a software engineer and independent maker in Turkey, mostly working in C#/.N
 
 ### Projects
 
-| | | | |
+| | Project | What it is | Links |
 | :---: | --- | --- | --- |
 | <img src="assets/mediastash.svg" width="64" height="64" alt=""> | **MediaStash** | Track movies, TV, books and games. | [Website](https://mediastash.app/) |
 | <img src="assets/tablodge.svg" width="64" height="64" alt=""> | **TabLodge** | Tab sessions and bookmarks in one place. | [Website](https://tablodge.bbay.dev/) · [GitHub](https://github.com/bberka/TabLodge) |
