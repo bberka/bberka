@@ -18,4 +18,4 @@ I'm a software engineer and independent maker in Turkey, mostly working in C#/.N
 
 ### Elsewhere
 
-[bbay.dev](https://bbay.dev) · [Blog](https://bbay.dev/blog/)
+[bbay.dev](https://bbay.dev) · [Blog](https://bbay.dev/blog/) · [CV](https://bbay.dev/cv.pdf)
