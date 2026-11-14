@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="TrendyolClient.Sharp icon: a T between curly braces">
+  <rect width="512" height="512" rx="112" fill="#111827"/>
+  <g fill="none" stroke="#fbbf24" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M188 112C142 112 148 152 148 198C148 238 124 246 110 256C124 266 148 274 148 314C148 360 142 400 188 400"/>
+    <path d="M324 112C370 112 364 152 364 198C364 238 388 246 402 256C388 266 364 274 364 314C364 360 370 400 324 400"/>
+  </g>
+  <!-- T: wide bar, sturdy stem, centred on the braces -->
+  <path d="M192 170H320a10 10 0 0 1 10 10V206a10 10 0 0 1-10 10H279V336a10 10 0 0 1-10 10H243a10 10 0 0 1-10-10V216H192a10 10 0 0 1-10-10V180a10 10 0 0 1 10-10Z" fill="#ffffff"/>
+</svg>
