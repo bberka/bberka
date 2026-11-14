@@ -1,7 +1,5 @@
 ## Hi, I'm Berkay
 
-I build software I'd actually use. Agents do the typing. I do the supervising.
-
 I'm a software engineer and independent maker in Turkey, mostly working in C#/.NET and TypeScript.
 
 ### What I'm working on
